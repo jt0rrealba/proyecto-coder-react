@@ -1,10 +1,9 @@
-import { Navbar } from "./components/layouts/navbar/Navbar";
+import Navbar from "./components/layouts/navbar/Navbar";
 
 function App() {
   return (
     <>
       <Navbar />
-      <h1>Hola Mundo desde React</h1>;
     </>
   );
 }
